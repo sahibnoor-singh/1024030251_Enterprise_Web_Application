@@ -37,6 +37,3 @@ java library.main.Main
 ```
 
 or u can just open it in intellij and run it directly.
-
-## Note
-sry if there are any small bugs, i am submiting this a bit late. I have kept the package structure as told in the lab manual.
