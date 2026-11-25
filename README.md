@@ -1,2 +1,2 @@
 # 1024030251_Enterprise_Web_Application
-Assignements
+Assignments
