@@ -1,0 +1,5 @@
+INFO: Application started
+INFO: User logged in
+WARNING: Password will expire soon
+ERROR: Database connection failed
+INFO: Application stopped
